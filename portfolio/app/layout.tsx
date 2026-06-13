@@ -19,7 +19,6 @@ const geistMono = Geist_Mono({
   display: "swap",
 });
 
-// const siteUrl = "https://risheekshukla.dev";
 const siteUrl = "https://rishbhbhawsar.dev";
 const description =
   "Software Engineer focused on Angular applications, enterprise platforms, and scalable web solutions. Currently building production-grade products using Angular, TypeScript, and modern web technologies.";
